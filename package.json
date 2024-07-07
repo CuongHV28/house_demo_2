@@ -1,0 +1,24 @@
+{
+  "name": "house_demo_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chroma-js": "^2.4.2",
+    "stats.js": "^0.17.0",
+    "three": "^0.166.1",
+    "three-bvh-csg": "^0.0.16"
+  },
+  "devDependencies": {
+    "@types/three": "^0.166.0",
+    "vite": "^5.3.3"
+  }
+}
